@@ -92,7 +92,7 @@ const ListCard = ({ data, deleteData }) => {
                         onClick={() => handleShowModal(item)}
                         className="mb-0"
                       >
-                        Hapus Data
+                        Hapus
                       </Button>
                     </td>
                   </tr>
